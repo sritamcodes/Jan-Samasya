@@ -1,0 +1,6 @@
+{
+  "name": "Jan Samasya",
+  "description": "An AI-assisted civic intelligence platform that transforms fragmented citizen voices into structured community priorities, human-reviewed evidence, and transparent development plans.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
